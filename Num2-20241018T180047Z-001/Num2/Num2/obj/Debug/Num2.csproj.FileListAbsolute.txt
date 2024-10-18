@@ -1,0 +1,15 @@
+C:\Users\labc201\Desktop\Num2\Num2\bin\Debug\Num2.exe.config
+C:\Users\labc201\Desktop\Num2\Num2\bin\Debug\Num2.exe
+C:\Users\labc201\Desktop\Num2\Num2\bin\Debug\Num2.pdb
+C:\Users\labc201\Desktop\Num2\Num2\obj\Debug\Num2.csproj.AssemblyReference.cache
+C:\Users\labc201\Desktop\Num2\Num2\obj\Debug\Num2.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc201\Desktop\Num2\Num2\obj\Debug\Num2.csproj.CoreCompileInputs.cache
+C:\Users\labc201\Desktop\Num2\Num2\obj\Debug\Num2.exe
+C:\Users\labc201\Desktop\Num2\Num2\obj\Debug\Num2.pdb
+C:\Users\ACER\Downloads\Num2-20241018T180047Z-001\Num2\Num2\bin\Debug\Num2.exe.config
+C:\Users\ACER\Downloads\Num2-20241018T180047Z-001\Num2\Num2\bin\Debug\Num2.exe
+C:\Users\ACER\Downloads\Num2-20241018T180047Z-001\Num2\Num2\bin\Debug\Num2.pdb
+C:\Users\ACER\Downloads\Num2-20241018T180047Z-001\Num2\Num2\obj\Debug\Num2.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Num2-20241018T180047Z-001\Num2\Num2\obj\Debug\Num2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Num2-20241018T180047Z-001\Num2\Num2\obj\Debug\Num2.exe
+C:\Users\ACER\Downloads\Num2-20241018T180047Z-001\Num2\Num2\obj\Debug\Num2.pdb
